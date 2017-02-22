@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-10.2.0_229af3caa723388f24183519b436b15d1bbf7bfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_c4ddda2f0b525473d26fb1c6775100b87678e95c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-10.2.0_3a5fd3e7c42362ffbb2d1eab946fbd81c7d08dea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_8f355d507fd522ccbe41a8bd008152b41305974e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud867-master/FinalProject/jokelib/build/libs/jokelib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ee0fff3c79ceb65cd141a26581385b85eb0a562">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/jokelib_72c05e95e396e56d68b0c289331e78f1132b7df3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_60bf4e7546247895fed1b602ac8b14a17f2a9a78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_72d0d43085d4663b132b7393fe320fc6619c23e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.2.0_91aa200278424fa933f39d789968880892d66203.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_9ea1bec6a7ac696ef56dd5cdaef6036a21450294.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.2.0_d09483dac55d2dbe630683734bc45add10078a27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud867-master/FinalProject/backend/build/libs/backend-android-endpoints.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c8ea01e9576744fca084a9d8dfc37903a2451f4f">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/backend-android-endpoints_03dd187173e022c35c9776467dd112ea78579dc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud867-master/FinalProject/backend/build/libs/backend.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="84b641f8f144b8a917b0de1b893fba916ce70e1f">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/backend_388c2f7df0fcbe446917d28075a2554d45aef32c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.20.0/d3e66209ae9e749b2d6833761e7885f60f285564/google-api-client-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/google-api-client-1.20.0_f3884151d02c1f8fafc1bd4c311cc2c823449e42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.20.0/313dc99a7963523871495897ca11aa8472b3c6fd/google-http-client-android-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/google-http-client-android-1.20.0_cdc9e8c4e8d6337d378d2beadbd446beebb9960f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/13.0/381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7/guava-jdk5-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/guava-jdk5-13.0_08f331f8409719964d0c049a091882e4f3970364.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.20.0/1d086ac5756475ddf451af2e2df6e288d18608ca/google-oauth-client-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.20.0_fd27485113bfce012de8d00cc12bb5513b3ba160.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.2.0_35e844dce128b022f61e7b70656edb2634e4fa0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/jsr305-2.0.1_730fcc643bbbf53b675ea7a74aff48d53e43a38f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_9aac7bcf4abbc66646601bcadd80514126747a2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/.gradle/caches/modules-2/files-2.1/com.google.appengine/appengine-endpoints-deps/1.9.34/62c8b7dff8fd6458ca722343757ab3057362ec39/appengine-endpoints-deps-1.9.34.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="62c8b7dff8fd6458ca722343757ab3057362ec39">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/appengine-endpoints-deps-1.9.34_6e4b105284f20670727e9c3d2925b2e08527165f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_a8c4113e156e93efe22564f1c260157b9206e5be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_0fa4fe51589957dea4f5921f75413bfb0e86d267.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_684c7d7b3183fedff2522728ddba06f58281fcf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.20.0/5673179575c32b69a474334255c3044adf18d40/google-api-client-android-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/google-api-client-android-1.20.0_485fcb1d2521483b9784d6236e4f3c8e61200370.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.20.0/2408070b2abec043624d35b35e30450f1b663858/google-http-client-jackson2-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.20.0_dbb4bc69c198a402f37824892112cf91fd350a2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-10.2.0_13ca2e8cac4cabddc01def0bfe45a07f8c9baef5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/.gradle/caches/modules-2/files-2.1/com.google.appengine/appengine-endpoints/1.9.34/4854813d73f2b5bc6ebde04b156d2fe7a9e4aceb/appengine-endpoints-1.9.34.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4854813d73f2b5bc6ebde04b156d2fe7a9e4aceb">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/appengine-endpoints-1.9.34_bd55174e47d9e391fe769ef741631fb2051bda0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/.gradle/caches/modules-2/files-2.1/javax.servlet/servlet-api/2.5/5959582d97d8b61f4d154ca9e495aafd16726e34/servlet-api-2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5959582d97d8b61f4d154ca9e495aafd16726e34">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/servlet-api-2.5_fdc00bf9756c5856343863892284fe4db172a9cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/exploded-aar/FinalProject/androidDisplaylib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ff4d9f15d3f0e81613e014e4de118f6202ad3322">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/FinalProject-androidDisplaylib-unspecified_3a50ff0ec876db2e45efdf6196d3f941734d2344.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.20.0/93d82db2bca534960253f43424b2ba9d7638b4d2/google-http-client-1.20.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/google-http-client-1.20.0_57e31e859a8d80b3c6c8930f0b6efefed2c81eb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Documents/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_e036264aecca22476c6f9a3099be361a8c50b3aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-10.2.0_b0bbb626f85d6eb298619bdf613f1fea9814e0df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ron/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/ron/Downloads/ud867-master/FinalProject/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3_4b940ec70fbd9b239c10a2e0046b04813ea0ac3c.jar" />
+    </item>
+
+</items>
